@@ -1,6 +1,6 @@
 <b>olá, eu sou o Rodrigo</b>
 <p>
-Sou um desenvolvedor Junior com experiencias em:<br>
+Um desenvolvedor Junior com experiencias em:<br>
   - JS<br>
   - PHP<br>
   - HTML<br>
