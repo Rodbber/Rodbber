@@ -10,6 +10,6 @@ Desenvolvedor Junior com experiencias em:<br>
 E aberto a novas oportunidades.<br>
 Tambem estudando python, django, c# e electron.<br>
 email de contato: rod.lemon@hotmail.com<br>
-linkedin: https://br.linkedin.com/in/rodrigo-barbosa-bertini
+linkedin: https://linkedin.com/in/rodrigo-barbosa-bertini
 </p>
 
