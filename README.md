@@ -1,6 +1,6 @@
 # <b>olá, eu sou o Rodrigo</b> <br>
 ## <p>
-Sou um entusiasmado desenvolvedor full stack, apaixonado por tecnologia e com mais de 2 anos de jornada no desenvolvimento web. Minha experiência abrange uma ampla gama de habilidades, desde a criação de back-ends robustos usando Laravel e PHP até a elaboração de interfaces de usuário intuitivas com HTML, CSS, Tailwind, Bootstrap e Vuejs. Além disso, ja desenvolvi e estudo a area de aplicativos mobile utilizando React native e Flutter.
+Sou um entusiasmado desenvolvedor full stack, apaixonado por tecnologia e com mais de 3 anos de jornada no desenvolvimento web. Minha experiência abrange uma ampla gama de habilidades, desde a criação de back-ends robustos usando Laravel e PHP até a elaboração de interfaces de usuário intuitivas com HTML, CSS, Tailwind, Bootstrap e Vuejs. Além disso, ja desenvolvi e estudo a area de aplicativos mobile utilizando React native e Flutter.
 
 Minha jornada na programação começou na faculdade, e rapidamente me tornei cativado pelo potencial transformador da tecnologia. Sou movido pelo desafio de encontrar soluções criativas para problemas complexos e adoro acompanhar as tendências e evoluções do mundo da programação.
 
