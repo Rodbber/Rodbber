@@ -1,10 +1,44 @@
-# <b>olá, eu sou o Rodrigo</b> <br>
-## <p>
-Sou um entusiasmado desenvolvedor full stack, apaixonado por tecnologia e com mais de 4 anos de jornada no desenvolvimento web. Minha experiência abrange uma ampla gama de habilidades, desde a criação de back-ends robustos usando Laravel e PHP até a elaboração de interfaces de usuário intuitivas com HTML, CSS, Tailwind, Bootstrap e Vuejs. Além disso, ja desenvolvi e estudo a area de aplicativos mobile utilizando React native e Flutter.
+# Olá, eu sou o Rodrigo 👋
 
-Minha jornada na programação começou na faculdade, e rapidamente me tornei cativado pelo potencial transformador da tecnologia. Sou movido pelo desafio de encontrar soluções criativas para problemas complexos e adoro acompanhar as tendências e evoluções do mundo da programação.
+Engenheiro de Software focado em backend PHP/Laravel e B2B SaaS, com 5+ anos construindo APIs, integrações financeiras e sistemas de logística e rastreio em produção.
 
-Se você procura um desenvolvedor comprometido, que se dedica a entregar projetos de alta qualidade, estou aqui para ajudar! Sou bom em trabalhar em equipe, colaborar em ideias inovadoras e contribuir para o sucesso de cada projeto que abraço. Vamos criar algo incrível juntos!<br>
+Atualmente:
+- Desenvolvedor na LandApp, plataforma de intermediação entre construtoras e caminhoneiros
+- Trabalhando com Laravel, React, filas/jobs, auditoria e automação de fluxos financeiros
+
+O que eu gosto de construir:
+- Backends robustos com Laravel, REST APIs bem definidas e arquitetura limpa
+- Sistemas que reduzem trabalho manual e resolvem gargalos de performance
+- Produtos SaaS com multi tenant, integrações de pagamento e uso intenso de filas
+
+## Projetos em destaque
+
+- **LandApp (profissional)**  
+  Plataforma para gestão de frete e descarte de resíduos da construção civil.  
+  Trabalhei em módulos de logística e financeiro, APIs REST para painel web e app mobile e automação de notificações e fechamento de período.
+
+- **UNICONN ERP veicular (profissional)**  
+  Reconstrução de plataforma de rastreio e gestão veicular, migrando de PHP puro para Laravel + Vue, com integrações de pagamento e geolocalização.
+
+- **BotAtendente (SaaS em desenvolvimento)**  
+  Plataforma multi tenant de atendimento via WhatsApp com IA para PMEs brasileiras.  
+  Stack: Laravel, Redis queues, WhatsApp Business API, foco em LGPD.
+
+- **BatePonto (projeto próprio)**  
+  Sistema de controle de ponto por geolocalização, com app em Flutter e backend em Laravel.  
+  Repositórios:  
+  - Backend: `github.com/Rodbber/bateponto`  
+  - App: `github.com/Rodbber/beteponto_app`
+
+## Stack principal
+
+- Backend: PHP, Laravel 8+, REST APIs, filas/jobs, testes com PHPUnit
+- Frontend: Vue.js, React, Tailwind CSS
+- Banco de dados: MySQL, Redis, PostgreSQL (básico)
+- Infra: Docker, CI/CD com GitHub Actions
+
+Em estudo:
+- Livewire, Python, Java/Spring
 </p>
 <div>
 Skills: <br>
@@ -17,8 +51,7 @@ Skills: <br>
 <br>Em estudo:<br>
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" />
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 <div>
 <p>E aberto a novas oportunidades e desafios.</p><br>
